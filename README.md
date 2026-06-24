@@ -39,6 +39,22 @@ https://medqueue-1.onrender.com
 Backend:
 https://medqueue-dj71.onrender.com
 
+## Future Enhancements
+
+* Email notifications for appointment confirmations and cancellations
+* SMS reminders for upcoming appointments
+* Online payment integration for consultation fees
+* Doctor schedule and time-slot management
+* Prescription and medical record management
+* Patient appointment history and reports
+* Advanced analytics dashboard for administrators
+* Multi-hospital support
+* AI-powered patient wait time prediction
+* Mobile application for Android and iOS
+* Video consultation and telemedicine support
+* Automated appointment reminders using notifications
+
+
 
 ## Author
 
