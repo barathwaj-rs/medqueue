@@ -118,7 +118,7 @@ export default function PatientDashboard() {
 
       <header>
         <h1 className="text-5xl font-bold text-slate-900">
-          Welcome back, {user?.name}
+          Welcome {user?.name}
         </h1>
 
         <p className="mt-2 text-slate-500">
